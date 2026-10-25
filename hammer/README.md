@@ -548,4 +548,4 @@ curl -X POST http://10.48.145.96:1337/execute_command.php \
 
 ---
 
-*Writeup by [Your Name] — TryHackMe room: Hammer*
+*Writeup by Brian Omulami — TryHackMe room: Hammer*
